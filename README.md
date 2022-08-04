@@ -26,8 +26,14 @@ Atualmente participo como bolsista no Laboratório de Pesquisa em Inteligência 
 Programar é uma das minhas paixões, juntamente com aprender idiomas, no momento estou aprendendo alemão, porque imagino que irá me trazer oportunidades no futuro de fazer um mestrado ou doutorado na Alemanha.
 
 
+<div>
+  <a href="https://github.com/ana-athayde">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ana-athayde&count_private=true&theme=tokyonight"\>
+  
+</div>
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ana-athayde&repo=github-readme-stats" />
+  <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=ana-athayde&repo=github-readme-stats](https://github-readme-stats.vercel.app/api?username=ana-athayde&count_private=true&theme=tokyonight)" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ana-athayde&repo=convoychat" />
