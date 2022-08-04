@@ -13,7 +13,8 @@
   <img align="right" alt="Ana" src="https://user-images.githubusercontent.com/43683162/182949647-2cb9d698-8f4c-4c7b-be5e-96ecf1e2eb18.gif">
 </div>
 
-  
+  ![picasion com_46b883d5e274ac67831e29d15d5941bf](https://user-images.githubusercontent.com/43683162/182949762-32ebd29a-8273-42eb-90bf-c32a6adb8c05.gif)
+
   
 ### About me
 
