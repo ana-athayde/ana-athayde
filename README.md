@@ -25,3 +25,5 @@ Atualmente participo como bolsista no Laboratório de Pesquisa em Inteligência 
 
 Programar é uma das minhas paixões, juntamente com aprender idiomas, no momento estou aprendendo alemão, porque imagino que irá me trazer oportunidades no futuro de fazer um mestrado ou doutorado na Alemanha.
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ana-athayde&count_private=true)
+
