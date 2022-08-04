@@ -10,9 +10,7 @@
 
 My interest in programming started with a computer technician course during high school, where I had the opportunity to become a tutor and participate in some research projects.
 
-In the second semester of 2020, I started a degree in Computer Science course at Udesc - Joinville. Right at the beginning, I met the BRUTE extension project, which has the primary goal of training, recruiting, and forming teams to increase the number of students involved in the programming competition.
-
-I volunteered for this project for a year while participating in a team with two college classmates. Within the project, I learned to solve problems faster, as well as to work in a team and develop solutions.
+In the second semester of 2020, I started a degree in Computer Science course at Udesc - Joinville. Right at the beginning, I met the BRUTE extension project, which has the primary goal of training, recruiting, and forming teams to increase the number of students involved in the programming competition. I volunteered for this project for a year while participating in a team with two college classmates. Within the project, I learned to solve problems faster, as well as to work in a team and develop solutions.
 
 Currently, I am a scholarship student in the Computational Intelligence Research Laboratory (LABCOM) at UDESC in the multiobjective optimization project of the stamping process of an automotive part in partnership with ArcelorMittal do Brasil.
 
