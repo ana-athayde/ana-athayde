@@ -10,10 +10,10 @@
   <img align="center" alt = "Ana-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
   <img align="center" alt = "Ana-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt = "Ana-Php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-  <img align="right" alt="Ana" src="https://user-images.githubusercontent.com/43683162/182949647-2cb9d698-8f4c-4c7b-be5e-96ecf1e2eb18.gif">
+  <img align="right" alt="Ana" src="https://user-images.githubusercontent.com/43683162/182950042-c14cef4c-749b-4ac9-b779-3a294c6e13e6.gif">
 </div>
 
-  ![picasion com_46b883d5e274ac67831e29d15d5941bf](https://user-images.githubusercontent.com/43683162/182949762-32ebd29a-8273-42eb-90bf-c32a6adb8c05.gif)
+![gif-ana](https://user-images.githubusercontent.com/43683162/182950042-c14cef4c-749b-4ac9-b779-3a294c6e13e6.gif)
 
   
 ### About me
