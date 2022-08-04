@@ -7,13 +7,14 @@
 </div>
 
 <div style = "display: inline_block"><br>
-  <img align="center" alt = "Ana-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
-  <img align="center" alt = "Ana-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-  <img align="center" alt = "Ana-Php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-  <img align="right" alt="Ana" src="https://user-images.githubusercontent.com/43683162/182950042-c14cef4c-749b-4ac9-b779-3a294c6e13e6.gif">
+  <img align="center" alt = "Ana-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
+  <img align="center" alt = "Ana-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
+  <img align="center" alt = "Ana-Php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
+  <img align="right" alt="Ana" src="https://user-images.githubusercontent.com/43683162/182950042-c14cef4c-749b-4ac9-b779-3a294c6e13e6.gif"/>
 </div>
 
  <div>
+  <img>
   ![gif-ana](https://user-images.githubusercontent.com/43683162/182950042-c14cef4c-749b-4ac9-b779-3a294c6e13e6.gif)
   ![gif-ana](https://user-images.githubusercontent.com/43683162/182950189-8b31604e-c65f-4640-b625-d727dcfd6c83.gif)
 </div>
