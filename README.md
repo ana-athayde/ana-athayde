@@ -29,5 +29,5 @@ Programar é uma das minhas paixões, juntamente com aprender idiomas, no moment
 <div>
   <a href="https://github.com/ana-athayde">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ana-athayde&count_private=true&theme=tokyonight"\>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ana-athayde&layout=compact"\>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ana-athayde&layout=compact&theme=tokyonight"\>
  </div>
