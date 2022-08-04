@@ -6,12 +6,6 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ana-athayde&layout=compact&theme=tokyonight"\>
 </div>
 
-<div style = "display: inline_block"><br>
-  <img align="center" alt = "Ana-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"\>
-  <img align="center" alt = "Ana-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"\>
-  <img align="center" alt = "Ana-Php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"\>
-</div>
- 
 ### About me
 
 My interest in programming started with a computer technician course during high school, where I had the opportunity to become a tutor and participate in some research projects.
@@ -36,6 +30,3 @@ Fui voluntária neste projeto durante um ano enquanto participava de uma equipe 
 Atualmente participo como bolsista no Laboratório de Pesquisa em Inteligência Computacional (LABCOM) da UDESC no projeto de otimização multiobjectivo do processo de estampagem de uma peça automotiva em parceria com a ArcelorMittal do Brasil.
 
 Programar é uma das minhas paixões, juntamente com aprender idiomas, no momento estou aprendendo alemão, porque imagino que irá me trazer oportunidades no futuro de fazer um mestrado ou doutorado na Alemanha.
-
-
-
