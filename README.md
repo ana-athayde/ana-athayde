@@ -29,15 +29,5 @@ Programar é uma das minhas paixões, juntamente com aprender idiomas, no moment
 <div>
   <a href="https://github.com/ana-athayde">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ana-athayde&count_private=true&theme=tokyonight"\>
-  
-</div>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=ana-athayde&repo=github-readme-stats](https://github-readme-stats.vercel.app/api?username=ana-athayde&count_private=true&theme=tokyonight)" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ana-athayde&repo=convoychat" />
-</a>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ana-athayde&count_private=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ana-athayde&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ana-athayde&layout=compact"\>
+ </div>
