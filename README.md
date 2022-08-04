@@ -6,6 +6,13 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ana-athayde&layout=compact&theme=tokyonight"\>
 </div>
 
+<div style = "display: inline_block"><br>
+  <img align="center" alt = "Ana-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
+  <img align="center" alt = "Ana-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  <img align="center" alt = "Ana-Php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+  <img align="right" alt="Ana" src="![picasion com_46b883d5e274ac67831e29d15d5941bf](https://user-images.githubusercontent.com/43683162/182949647-2cb9d698-8f4c-4c7b-be5e-96ecf1e2eb18.gif)">
+</div>
+
 ### About me
 
 My interest in programming started with a computer technician course during high school, where I had the opportunity to become a tutor and participate in some research projects.
