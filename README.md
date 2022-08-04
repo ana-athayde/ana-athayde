@@ -10,7 +10,7 @@
 
 My interest in programming started with a computer technician course during high school, where I had the opportunity to become a tutor and participate in some research projects.
 
-In the second semester of 2020, I started a degree in Computer Science course at Udesc - Joinville. Right at the beginning, I met the BRUTE extension project, which has the primary goal of training, recruiting, and forming teams to increase the number of students involved in the programming competition. I volunteered for this project for a year while participating in a team with two college classmates. Within the project, I learned to solve problems faster, as well as to work in a team and develop solutions.
+In the second semester of 2020, I started a degree in Computer Science course at Udesc - Joinville. Right at the beginning, I met the Ação Maratonas de Programação extension project, which has the primary goal of training, recruiting, and forming teams to increase the number of students involved in the programming competition. I volunteered for this project for a year while participating in a team with two college classmates. Within the project, I learned to solve problems faster, as well as to work in a team and develop solutions.
 
 Currently, I am a scholarship student in the Computational Intelligence Research Laboratory (LABCOM) at UDESC in the multiobjective optimization project of the stamping process of an automotive part in partnership with ArcelorMittal do Brasil.
 
@@ -21,7 +21,7 @@ Programming is one of my passions, along with learning languages. Now I am learn
 
 Meu interesse na área de programação começou com um técnico em informática durante o ensino médio, onde tive a oportunidade de me tornar monitora e participar de alguns projetos de pesquisa.
 
-Ingressei no curso de Ciência da Computação na Udesc - Joinville, no segundo semestre de 2020. Logo no começo, conheci o projeto de extensão BRUTE, que tem como objetivo principal treinar, recrutar e formar times a fim de aumentar o número de estudantes envolvidos na maratona de programação.
+Ingressei no curso de Ciência da Computação na Udesc - Joinville, no segundo semestre de 2020. Logo no começo, conheci o projeto de extensão Ação Maratonas de Programação, que tem como objetivo principal treinar, recrutar e formar times a fim de aumentar o número de estudantes envolvidos na maratona de programação.
 
 Fui voluntária neste projeto durante um ano enquanto participava de uma equipe com duas colegas da faculdade. Dentro do projeto aprendi a resolver problemas de forma mais rápida, além de trabalhar em equipe e desenvolver soluções.
 
