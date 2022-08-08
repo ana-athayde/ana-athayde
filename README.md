@@ -12,7 +12,7 @@ My interest in programming started with a computer technician course during high
 
 In the second semester of 2020, I started a degree in Computer Science course at Udesc - Joinville. Right at the beginning, I met the Ação Maratonas de Programação extension project, which has the primary goal of training, recruiting, and forming teams to increase the number of students involved in the programming competition. I volunteered for this project for a year while participating in a team with two college classmates. Within the project, I learned to solve problems faster, as well as to work in a team and develop solutions.
 
-Currently, I am a scholarship student in the Computational Intelligence Research Laboratory (LABCOM) at UDESC in the multiobjective optimization project of the stamping process of an automotive part in partnership with ArcelorMittal do Brasil.
+Currently, I am a scholarship student in the Computational Intelligence Research Laboratory (LABCOM) at UDESC in the multiobjective optimization project of the stamping process of an automotive part in partnership with ArcelorMittal from Brasil.
 
 Programming is one of my passions, along with learning languages. Now I am learning German because I imagine it will bring me opportunities in the future to do a Master's or Ph.D. in Germany.
 
