@@ -1,10 +1,5 @@
 ![b](https://user-images.githubusercontent.com/43683162/132432927-711fa0fa-df03-47f8-b598-350664502ad5.gif)
 
-<div>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ana-athayde&count_private=true&theme=tokyonight"\>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ana-athayde&layout=compact&theme=tokyonight"\>
-</div>
 
 ### About me
 
