@@ -3,8 +3,6 @@
 
 ### About me
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ana-athayde)](https://github.com/anuraghazra/github-readme-stats)
-
 My Journey in the World of Tech and Problem Solving:
 
 Hello, I'm Ana Athayde, a dedicated Computer Scientist deeply devoted to problem-solving. My interest in programming started with a computer technician course during high school, where I had the opportunity to become a tutor and participate in some research projects. This phase opened doors to new opportunities and experiences.
