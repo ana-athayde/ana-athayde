@@ -3,8 +3,8 @@
 
 ### About me
 
-<p align="center">
-  <a href="https://skillicons.dev">
+<p align="left">
+  <a href="https://www.linkedin.com/in/ana-athayde/?locale=en_US">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
