@@ -18,3 +18,5 @@ Beyond coding, I embraced languages in the true sense. I'm fluent in Portuguese,
 I believe in lifelong learning, and I'm always looking for opportunities to expand my knowledge. Learning new languages and exploring technological innovation are some of my passions.
 
 My journey is a testament to dedication, innovation, and the limitless possibilities in Computer Science. I hope my story inspires you in this exciting field.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ana-athayde)](https://github.com/anuraghazra/github-readme-stats)
