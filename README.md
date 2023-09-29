@@ -9,7 +9,7 @@
   </a>
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ana-athayde)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ana-athayde)](https://github.com/anuraghazra/github-readme-stats)
 
 My Journey in the World of Tech and Problem Solving:
 
@@ -27,4 +27,4 @@ I believe in lifelong learning, and I'm always looking for opportunities to expa
 
 My journey is a testament to dedication, innovation, and the limitless possibilities in Computer Science. I hope my story inspires you in this exciting field.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ana-athayde)](https://github.com/anuraghazra/github-readme-stats)
+
