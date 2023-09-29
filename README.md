@@ -1,13 +1,15 @@
 ![b](https://user-images.githubusercontent.com/43683162/132432927-711fa0fa-df03-47f8-b598-350664502ad5.gif)
 
 
-### About me
+## Click on the button below to be directed to my Linkedin profile:
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ana-athayde/?locale=en_US">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
+
+### About me
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ana-athayde)](https://github.com/anuraghazra/github-readme-stats)
 
