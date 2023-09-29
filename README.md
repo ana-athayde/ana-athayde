@@ -3,6 +3,13 @@
 
 ### About me
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
+
+
 My Journey in the World of Tech and Problem Solving:
 
 Hello, I'm Ana Athayde, a dedicated Computer Scientist deeply devoted to problem-solving. My interest in programming started with a computer technician course during high school, where I had the opportunity to become a tutor and participate in some research projects. This phase opened doors to new opportunities and experiences.
