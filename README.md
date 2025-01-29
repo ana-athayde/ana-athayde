@@ -4,15 +4,13 @@
 ### About me
 
 
-Hello, I'm Ana Athayde,a Computer Scientist devoted to problem-solving. My interest in programming started with a computer technician course during high school, where I had the opportunity to become a tutor and participate in some research projects.
+Hello, I'm Ana Athayde,a Computer Scientist student. My interest in programming started with a computer technician course during high school, where I had the opportunity to become a tutor and participate in some research projects.
 
-Now, pursuing a Bachelor's degree in Computer Science at UDESC, I'm falling in love with programming.
+Now, pursuing a Bachelor's degree in Computer Science at UDESC, I'm again falling in love with programming.
 
-In the first semester of 2020, I became a Research Assistant at LABCOM, UDESC. Here, I had the chance to dive deep into multi-objective optimization projects and collaborate with industry experts. One of the highlights of this journey was the publication of "Automotive Stamping Process Optimization Using Machine Learning and Multi-objective Evolutionary Algorithm," a project that remains close to my heart.
+In the first semester of 2020, I became a Research Assistant at LABCOM, UDESC. Here, I had the chance to dive into multi-objective optimization projects and collaborate with industry experts. One of the highlights was the publication of "Automotive Stamping Process Optimization Using Machine Learning and Multi-objective Evolutionary Algorithm,".
 
 I also dedicated time as a Project Volunteer at Ação Maratonas de Programação. It was here that I developed my problem-solving skills, trained others, and promoted teamwork. 
-
-I'm fluent in Portuguese, advanced in English, and have an intermediate German.
 
 Click on the button below to be directed to my Linkedin profile:
 
