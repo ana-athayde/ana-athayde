@@ -64,12 +64,18 @@ My experience combines academic research, hands-on software development, and IT 
 
 ---
 
-### 📊 GitHub Activity
+### GitHub Activity
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ana-athayde&theme=transparent&hide_border=true)
 
+
+### Open Source Contributions
+
+![GitHub Contributions](https://github-stats-extended.vercel.app/api?username=ana-athayde&show=prs_merged,prs_authored,reviews&hide=stars,commits,issues,contribs&theme=transparent)
+
+
 ---
 
-### 📫 Let's Connect!
+### Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-athayde)
